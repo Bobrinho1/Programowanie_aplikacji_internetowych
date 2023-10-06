@@ -1,0 +1,18 @@
+body {
+    font-family: 'Montserrat', sans-sherif;
+    background: radial-gradient(ellipse at center,  white, gray, darkgray);
+    background-repeat: no-repeat;
+    color: #000000;
+    height: 100vh;
+    overflow: hidden;
+    text-align: center;
+    align-items: center;
+    justify-content: center;
+}
+h1:hover {
+    transform: rotate(6deg) scale(120%);
+    transition: transform 1000ms;
+}
+li {
+    text-align: left;
+}
