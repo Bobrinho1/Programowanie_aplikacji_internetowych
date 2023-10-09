@@ -2,13 +2,15 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="786d6c9d-e48a-4ec7-8fbe-d824f44d45b9" name="Changes" comment="oj2">
-      <change afterPath="$PROJECT_DIR$/JavaScript/T00  Tematy/T07a/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JavaScript/T00  Tematy/T07a/style.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JavaScript/T00  Tematy/T07b/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JavaScript/T00  Tematy/T07b/style.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JavaScript/T00  Tematy/T08/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JavaScript/T00  Tematy/T08/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaScript/00 Zadania/z05 - rozne dzialania/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaScript/00 Zadania/z05 - rozne dzialania/main.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaScript/00 Zadania/z05 - rozne dzialania/style.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaScript/00 Zadania/Z01-powitanie z imieniem/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/JavaScript/00 Zadania/Z01-powitanie z imieniem/style.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaScript/00 Zadania/z02-srednia 4 liczb/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/JavaScript/00 Zadania/z02-srednia 4 liczb/style.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaScript/00 Zadania/z03-srednia geomentryczna/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/JavaScript/00 Zadania/z03-srednia geomentryczna/style.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaScript/00 Zadania/z04-iloraz/main.js" beforeDir="false" afterPath="$PROJECT_DIR$/JavaScript/00 Zadania/z04-iloraz/main.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaScript/00 Zadania/z04-iloraz/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/JavaScript/00 Zadania/z04-iloraz/style.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -18,9 +20,9 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="JavaScript File" />
         <option value="HTML File" />
         <option value="CSS File" />
+        <option value="JavaScript File" />
       </list>
     </option>
   </component>
@@ -68,6 +70,7 @@
       <workItem from="1695641046288" duration="13000" />
       <workItem from="1696243634604" duration="2286000" />
       <workItem from="1696578468661" duration="2288000" />
+      <workItem from="1696848213243" duration="2301000" />
     </task>
     <task id="LOCAL-00001" summary="oj2">
       <created>1694429723014</created>
