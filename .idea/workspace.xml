@@ -2,12 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="786d6c9d-e48a-4ec7-8fbe-d824f44d45b9" name="Changes" comment="oj2">
-      <change afterPath="$PROJECT_DIR$/JavaScript/00 Zadania/z12 - 5 liczb losowych/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JavaScript/00 Zadania/z12 - 5 liczb losowych/main.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JavaScript/00 Zadania/z12 - 5 liczb losowych/style.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JavaScript/p5JS/01 p5JS/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JavaScript/p5JS/01 p5JS/sketch.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaScript/p5JS/01 p5JS/sketch.js" beforeDir="false" afterPath="$PROJECT_DIR$/JavaScript/p5JS/01 p5JS/sketch.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -74,7 +70,8 @@
       <workItem from="1698393558824" duration="1796000" />
       <workItem from="1698666143522" duration="1417000" />
       <workItem from="1699271110009" duration="2395000" />
-      <workItem from="1699606278999" duration="1554000" />
+      <workItem from="1699606278999" duration="2147000" />
+      <workItem from="1699875869440" duration="2173000" />
     </task>
     <task id="LOCAL-00001" summary="oj2">
       <created>1694429723014</created>
@@ -139,7 +136,21 @@
       <option name="project" value="LOCAL" />
       <updated>1698668659318</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="oj2">
+      <created>1699608157369</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1699608157369</updated>
+    </task>
+    <task id="LOCAL-00011" summary="oj2">
+      <created>1699608192678</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1699608192678</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
