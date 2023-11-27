@@ -2,8 +2,15 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="786d6c9d-e48a-4ec7-8fbe-d824f44d45b9" name="Changes" comment="oj2">
+      <change afterPath="$PROJECT_DIR$/JavaScript/00 Zadania/Z43 - Liczba dwucyfrowa/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaScript/00 Zadania/Z43 - Liczba dwucyfrowa/main.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaScript/00 Zadania/Z43 - Liczba dwucyfrowa/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaScript/00 Zadania/z20-kwadrat i szescian liczby/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaScript/00 Zadania/z20-kwadrat i szescian liczby/main.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaScript/00 Zadania/z20-kwadrat i szescian liczby/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaScript/test/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaScript/test/main.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/JavaScript/p5JS/01 p5JS/sketch.js" beforeDir="false" afterPath="$PROJECT_DIR$/JavaScript/p5JS/01 p5JS/sketch.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -13,8 +20,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="CSS File" />
         <option value="HTML File" />
+        <option value="CSS File" />
         <option value="JavaScript File" />
       </list>
     </option>
@@ -71,7 +78,10 @@
       <workItem from="1698666143522" duration="1417000" />
       <workItem from="1699271110009" duration="2395000" />
       <workItem from="1699606278999" duration="2147000" />
-      <workItem from="1699875869440" duration="2173000" />
+      <workItem from="1699875869440" duration="2394000" />
+      <workItem from="1700210864476" duration="64000" />
+      <workItem from="1700211019437" duration="2376000" />
+      <workItem from="1701085555329" duration="641000" />
     </task>
     <task id="LOCAL-00001" summary="oj2">
       <created>1694429723014</created>
@@ -150,7 +160,14 @@
       <option name="project" value="LOCAL" />
       <updated>1699608192678</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="oj2">
+      <created>1699878266935</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1699878266935</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
