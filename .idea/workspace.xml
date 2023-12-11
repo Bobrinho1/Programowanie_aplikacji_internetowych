@@ -1,15 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="786d6c9d-e48a-4ec7-8fbe-d824f44d45b9" name="Changes" comment="oj2">
-      <change afterPath="$PROJECT_DIR$/JavaScript/00 Zadania/Z43 - Liczba dwucyfrowa/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JavaScript/00 Zadania/Z43 - Liczba dwucyfrowa/main.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JavaScript/00 Zadania/Z43 - Liczba dwucyfrowa/style.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JavaScript/00 Zadania/z20-kwadrat i szescian liczby/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JavaScript/00 Zadania/z20-kwadrat i szescian liczby/main.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JavaScript/00 Zadania/z20-kwadrat i szescian liczby/style.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JavaScript/test/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JavaScript/test/main.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaScript/T00  Tematy/T22-Funkcje/T221/main.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaScript/T00  Tematy/T22-Funkcje/T221/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaScript/T00  Tematy/T22-Funkcje/T222/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaScript/T00  Tematy/T22-Funkcje/T222/main.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaScript/T00  Tematy/T22-Funkcje/T222/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaScript/T00  Tematy/T22-Funkcje/T223/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaScript/T00  Tematy/T22-Funkcje/T223/main.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaScript/T00  Tematy/T22-Funkcje/T223/style.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -32,25 +35,36 @@
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 4
+}]]></component>
   <component name="ProjectId" id="2VFQbSQ1Ull3GE5QSlDGIFDaDv5" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;DefaultHtmlFileTemplate&quot;: &quot;HTML File&quot;,
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/2p01/WebstormProjects/Programowanie aplikacji internetowych&quot;,
-    &quot;list.type.of.created.stylesheet&quot;: &quot;CSS&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "DefaultHtmlFileTemplate": "HTML File",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "C:/Users/2p01/WebstormProjects/Programowanie aplikacji internetowych/JavaScript/T00  Tematy/T22-Funkcje/T223",
+    "list.type.of.created.stylesheet": "CSS",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\2p01\WebstormProjects\Programowanie aplikacji internetowych\JavaScript\T00  Tematy\T22-Funkcje\T223" />
+      <recent name="C:\Users\2p01\WebstormProjects\Programowanie aplikacji internetowych\JavaScript\T00  Tematy\T22-Funkcje\T222" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\2p01\WebstormProjects\Programowanie aplikacji internetowych\JavaScript\00 Zadania\Z01-powitanie z imieniem" />
     </key>
@@ -81,7 +95,8 @@
       <workItem from="1699875869440" duration="2394000" />
       <workItem from="1700210864476" duration="64000" />
       <workItem from="1700211019437" duration="2376000" />
-      <workItem from="1701085555329" duration="641000" />
+      <workItem from="1701085555329" duration="1659000" />
+      <workItem from="1702295034124" duration="2473000" />
     </task>
     <task id="LOCAL-00001" summary="oj2">
       <created>1694429723014</created>
@@ -167,7 +182,14 @@
       <option name="project" value="LOCAL" />
       <updated>1699878266935</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="oj2">
+      <created>1701087562294</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1701087562294</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
