@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>T25b</title>
+    <script>
+        function Klient(nazk, imiek, zawodk){
+            this.nazwisko = nazk;
+            this.imie= imiek;
+            this.zawod = zawodk;
+            this.wypisz = function(){
+                alert(this.nazwisko + ` ` + this. imie);
+            }
+            this.info = function(){
+                document.write(`Mam na imię ${this.imie} ${this.nazwisko}. Mój zawód to ${this.zawod} <br>`)
+            }
+        }
+        function Zwierze(imiez, gatunekz, wlascicielz){
+            this.imie = imiez;
+            this.gatunek = gatunekz;
+            this.wlasciciel = wlascicielz;
+            this.info1 = function (){
+                document.write(`To jest ${this.imie}, a jego gatunek to ${this.gatunek}, jego właścicielem jest ${this.wlasciciel.imie} ${this.wlasciciel.nazwisko}<br>`)
+            }
+        }
+        let osoba1 = new Klient('Kowalski', 'Jan', 'kierowca');
+        let osoba2 = new Klient('Nowak','Anna', 'sekretarka');
+        let pies1 = new Zwierze('Janek', 'Pies', osoba2)
+
+        osoba1.wypisz();
+        osoba2.info();
+        pies1.info1();
+
+    </script>
+</head>
+<body>
+
+</body>
+</html>

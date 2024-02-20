@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>punkt,odcinek</title>
+    <script>
+        class Punkt {
+            constructor(nazwa, x, y) {
+                this.nazwa = nazwa;
+                this.x = x;
+                this.y = y;
+            }
+            info() {
+                document.write(`Punkt o nazwie ${this.nazwa}, ma współrzędne: (${this.x}, ${this.y})<br>`);
+            }
+        }
+        class Odcinek {
+            constructor(punktPoczatkowy, punktKoncowy) {
+                this.punktPoczatkowy = punktPoczatkowy;
+                this.punktKoncowy = punktKoncowy;
+            }
+            dlugoscOdcinka = function () {
+                let dx = this.punktKoncowy.x - this.punktPoczatkowy.x;
+                let dy = this.punktKoncowy.y - this.punktPoczatkowy.y;
+                return Math.sqrt(dx * dx + dy * dy);
+            }
+            info = function () {
+                document.write(`Długość odcinka zaczynającego się w punkcie ${this.punktPoczatkowy.nazwa}, a kończącego się w punkcie ${this.punktKoncowy.nazwa} wynosi: ${this.dlugoscOdcinka()}`);
+            }
+        }
+        let poczatek = new Punkt("poczatek", 0, 0);
+        let koniec = new Punkt("koniec", 3, 4);
+        let odcinek = new Odcinek(poczatek, koniec);
+        poczatek.info();
+        koniec.info();
+        odcinek.info();
+
+    </script>
+</head>
+<body>
+
+</body>
+</html>

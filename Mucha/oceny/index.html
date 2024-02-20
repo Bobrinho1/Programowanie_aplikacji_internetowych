@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Przyjęcie do szkoly</title>
+</head>
+<body>
+
+<form id="myForm">
+    <label for="number1">Liczba 1:</label>
+    <input type="number" id="number1" required><br>
+
+    <label for="number2">Liczba 2:</label>
+    <input type="number" id="number2" required><br>
+
+    <label for="number3">Liczba 3:</label>
+    <input type="number" id="number3" required><br>
+
+    <label for="number4">Liczba 4:</label>
+    <input type="number" id="number4" required><br>
+
+    <button type="button" onclick="checkAverage()">Sprawdź średnią</button>
+</form>
+
+<script>
+    function checkAverage() {
+        var num1 = parseFloat(document.getElementById('number1').value);
+        var num2 = parseFloat(document.getElementById('number2').value);
+        var num3 = parseFloat(document.getElementById('number3').value);
+        var num4 = parseFloat(document.getElementById('number4').value);
+        var average = (num1 + num2 + num3 + num4) / 4;
+        if (average > 4) {
+            alert('Zostałeś przyjęty! Średnia wynosi: ' + average);
+        } else {
+            alert('Niestety, nie zostałeś przyjęty. Średnia wynosi: ' + average);
+        }
+    }
+</script>
+
+</body>
+</html>

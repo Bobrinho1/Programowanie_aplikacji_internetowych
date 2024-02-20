@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Czolg</title>
+    <style>
+        body {
+            color: white;
+            background-color: black;
+            text-align: center;
+            margin-top: 100px;
+        }
+    </style>
+    <script>
+        class Czolg{
+            nazwa = "Rudy 102";
+            kolor = "szary";
+            amunicja = 1;
+
+            info = function (){
+                document.write(`Cześć, nazywam się ${this.nazwa} i jestem koloru: ${this.kolor}. Mam aktualnie ${this.amunicja} sztuk amunicji. <br>`);
+            }
+             strzal = function (){
+                if (this.amunicja >= 1) {
+                    document.write("Wykonano strzał!!!<br>");
+                    this.amunicja += -1;
+                }
+                else
+                    document.write("Niestety nie ma amunicji.");
+             }
+
+             doladowanie = function (amunicjadol){
+                this.amunicja += amunicjadol;
+                document.write(`Obecnie w czolgu znajduje sie ${this.amunicja} sztuk amunicji <br>`);
+             }
+             przemalowanie = function(nowykolor) {
+                 document.write(`Czołg został przemalowany z koloru ${this.kolor} na kolor ${nowykolor} <br>`);
+                 this.kolor = nowykolor;
+             }
+        }
+        let czolg = new Czolg();
+        czolg.info();
+        czolg.strzal();
+        czolg.doladowanie(10);
+        czolg.strzal();
+        czolg.przemalowanie("biały");
+        czolg.info();
+    </script>
+</head>
+<body>
+
+</body>
+</html>
