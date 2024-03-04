@@ -5,15 +5,18 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="786d6c9d-e48a-4ec7-8fbe-d824f44d45b9" name="Changes" comment="oj2">
-      <change afterPath="$PROJECT_DIR$/JavaScript/T00  Tematy/T24/T24-formatowanie daty/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JavaScript/T00  Tematy/T24/T24-formatowanie daty/main.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JavaScript/T00  Tematy/T24/T24-formatowanie daty/style.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JavaScript/T00  Tematy/T25-obiekty/T25a/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JavaScript/T00  Tematy/T25-obiekty/T25b/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JavaScript/T00  Tematy/T25-obiekty/T25c-czolg/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JavaScript/T00  Tematy/T25-obiekty/T25d-punkty,odcinek/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Mucha/oceny/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaScript/T00  Tematy/T24a/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaScript/T00  Tematy/T27/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaScript/T00  Tematy/T27/main.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaScript/T00  Tematy/T27/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaScript/T00  Tematy/T27a/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaScript/T00  Tematy/T27a/main.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaScript/T00  Tematy/T27a/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaScript/T00  Tematy/T27b/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaScript/T00  Tematy/T27b/main.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaScript/T00  Tematy/T27b/style.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaScript/T00  Tematy/T24/T24-formatowanie daty/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/JavaScript/T00  Tematy/T24/T24-formatowanie daty/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -23,9 +26,9 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="HTML File" />
         <option value="CSS File" />
         <option value="JavaScript File" />
-        <option value="HTML File" />
       </list>
     </option>
   </component>
@@ -104,7 +107,10 @@
       <workItem from="1707825036322" duration="713000" />
       <workItem from="1708090357914" duration="1885000" />
       <workItem from="1708343508929" duration="927000" />
-      <workItem from="1708429860206" duration="1428000" />
+      <workItem from="1708429860206" duration="1759000" />
+      <workItem from="1708949352827" duration="955000" />
+      <workItem from="1709034862113" duration="1037000" />
+      <workItem from="1709552835023" duration="1007000" />
     </task>
     <task id="LOCAL-00001" summary="oj2">
       <created>1694429723014</created>
@@ -197,7 +203,15 @@
       <option name="project" value="LOCAL" />
       <updated>1701087562294</updated>
     </task>
-    <option name="localTasksCounter" value="14" />
+    <task id="LOCAL-00014" summary="oj2">
+      <option name="closed" value="true" />
+      <created>1708431617929</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1708431617929</updated>
+    </task>
+    <option name="localTasksCounter" value="15" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
